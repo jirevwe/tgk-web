@@ -1,0 +1,18 @@
+{
+"companyName": "rtukpe",
+"productName": "The Gecko King",
+"productVersion": "0.0.1",
+"dataUrl": "932ec1b7e0a71c298b8093deacb3bc04.unityweb",
+"wasmCodeUrl": "ec16b186ad88bc67ad4d8b74640c7dc1.unityweb",
+"wasmFrameworkUrl": "d7ed52fc76bf139345182970d563eeab.unityweb",
+"wasmSymbolsUrl": "db56dc731d9c6fc8a5d759c1235c6daf.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "fa0db3107192c49af7b5f055f5a7df48.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.16f1"
+}
